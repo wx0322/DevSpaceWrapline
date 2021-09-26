@@ -1,0 +1,27 @@
+# Node rules:
+## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+## Dependency directory
+## Commenting this out is preferred by some people, see
+## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+.vs
+DXApplication2.Module/bin
+DXApplication2.Module.Web/bin
+DXApplication2.Module.Win/bin
+DXApplication2.Web/bin
+DXApplication2.Win/bin
+DXApplication2.Module/obj
+DXApplication2.Module.Web/obj
+DXApplication2.Module.Win/obj
+DXApplication2.Web/obj
+DXApplication2.Win/obj
